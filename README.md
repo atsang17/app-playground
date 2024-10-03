@@ -7,6 +7,7 @@ This package is a compilation of react projects that i'm using to learn and play
 ## What I'm currently working on
 
 Currently working on the [React Tutorial](https://react.dev/learn/tutorial-tic-tac-toe)
+* Declaring a winner
 
 ## What is in this project?
 
